@@ -5,15 +5,15 @@
 
 #epicBlue{
     color: blue;
-    font-size: 36;
+    font-size: 36px;
 }
 
 .oddElements.butCooler{
-    font-size: 24;
+    font-size: 24px;
 }
 
 #weirdGreen{
     background-color: lightgreen;
     font-weight: bold;
-    font-size: 24;
+    font-size: 24px;
 }
