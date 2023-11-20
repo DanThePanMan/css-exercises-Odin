@@ -1,0 +1,19 @@
+.oddElements{
+    background-color: pink;
+    font: 'Verdana'; alt: 'DejaVo Sans'; alt: 'sans-serif';
+}
+
+#epicBlue{
+    color: blue;
+    font-size: 36;
+}
+
+.oddElements.butCooler{
+    font-size: 24;
+}
+
+#weirdGreen{
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24;
+}
