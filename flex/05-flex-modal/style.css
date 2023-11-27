@@ -13,16 +13,37 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+
 }
 
+
 .modal {
+  flex:initial;
+  padding: 12px;
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
   background: white;
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
 }
 
+.header{
+  font-weight: bold;
+  font-size: 24px;
+  margin: 12px;
+}
+
+.text{
+  margin: 12px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .icon {
+  margin: 12px;
+  flex-shrink: 0;
   color: royalblue;
   font-size: 26px;
   font-weight: 700;
@@ -49,6 +70,7 @@ body {
   border: 1px solid #eee;
   padding: 0;
 }
+
 
 button {
   cursor: pointer;
